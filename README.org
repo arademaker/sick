@@ -1,0 +1,19 @@
+
+grammar compilation (stable release):
+
+#+BEGIN_SRC bash
+ace -g ~/logon/lingo/ace/config.tdl -G erg.dat
+#+END_SRC
+
+profile construction:
+
+#+BEGIN_SRC bash
+mkprof -r ~/logon/lingo/erg/tsdb/gold/mrs/relations -i sample.txt sample
+art -a "ace -g erg.dat -O --disable-generalization" -f sample
+#+END_SRC
+
+treebanking:
+
+#+BEGIN_SRC bash
+fftb -g erg.dat --webdir /usr/local/fftb/assets/ sample
+#+END_SRC
