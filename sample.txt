@@ -1,6 +1,5 @@
 Two dogs are fighting
 Two dogs are wrestling and hugging
-Two dogs are wrestling and hugging
 There is no dog wrestling and hugging
 A brown dog is attacking another animal in front of the man in pants
 Two dogs are fighting
@@ -16,12 +15,10 @@ Two young women are sparring in a kickboxing fight
 Two women are sparring in a kickboxing match
 Two young women are not sparring in a kickboxing fight
 Two women are sparring in a kickboxing match
-Two women are sparring in a kickboxing match
 Two people are fighting and spectators are watching
 Two people are kickboxing and spectators are watching
 Two women are sparring in a kickboxing match
 Kids in red shirts are playing in the leaves
-Children in red shirts are playing in the leaves
 Children in red shirts are playing in the leaves
 Children in red shirts are sleeping in the leaves
 Three boys are jumping in the leaves
@@ -29,7 +26,6 @@ Three kids are jumping in the leaves
 Three kids are sitting in the leaves
 Three kids are jumping in the leaves
 Three boys are jumping in the leaves
-Children in red shirts are playing in the leaves
 Children in red shirts are playing in the leaves
 Three kids are sitting in the leaves
 Kids in red shirts are playing in the leaves
@@ -51,7 +47,6 @@ A biker is jumping in the air, alone
 There is no biker jumping in the air
 A lone biker is jumping in the air
 A man is jumping into an empty swimming pool
-A man is jumping into an empty pool
 A man is jumping into an empty pool
 A man is jumping into a full pool
 A man is jumping into an empty pool
@@ -78,7 +73,6 @@ Four kids are doing backbends in the park
 Four girls are doing backbends and playing outdoors
 Four children are doing backbends in the gym
 Four girls are doing backbends and playing outdoors
-Four girls are doing backbends and playing outdoors
 Four children are doing backbends in the park
 A man who is playing is running with the ball in his hands
 A player is running with the ball
@@ -86,13 +80,11 @@ A player is throwing the ball
 A player is running with the ball
 Two groups of people are playing football
 Two teams are competing in a football match
-Two teams are competing in a football match
 Two teams are competing in a baseball game
 Two teams are competing in a football match
 Football is being played by two competing teams
 Two groups of people are playing football
 A player is running with the ball
 Two teams are competing in a baseball game
-A player is running with the ball
 A player is running with the ball
 Football is being played by two competing teams
