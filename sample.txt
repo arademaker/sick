@@ -1,90 +1,99 @@
-Two dogs are fighting
-Two dogs are wrestling and hugging
-There is no dog wrestling and hugging
-A brown dog is attacking another animal in front of the man in pants
-Two dogs are fighting
-A skilled person is riding a bicycle on one wheel
-A person is riding the bicycle on one wheel
-Nobody is riding the bicycle on one wheel
-A person is riding the bicycle on one wheel
-Nobody is riding the bicycle on one wheel
-A person in a black jacket is doing tricks on a motorbike
-A person is riding the bicycle on one wheel
-A man in a black jacket is doing tricks on a motorbike
-Two young women are sparring in a kickboxing fight
-Two women are sparring in a kickboxing match
-Two young women are not sparring in a kickboxing fight
-Two women are sparring in a kickboxing match
-Two people are fighting and spectators are watching
-Two people are kickboxing and spectators are watching
-Two women are sparring in a kickboxing match
-Kids in red shirts are playing in the leaves
-Children in red shirts are playing in the leaves
-Children in red shirts are sleeping in the leaves
-Three boys are jumping in the leaves
-Three kids are jumping in the leaves
-Three kids are sitting in the leaves
-Three kids are jumping in the leaves
-Three boys are jumping in the leaves
-Children in red shirts are playing in the leaves
-Three kids are sitting in the leaves
-Kids in red shirts are playing in the leaves
-Three kids are jumping in the leaves
-Children in red shirts are sleeping in the leaves
-Three kids are jumping in the leaves
-Children covered by leaves are playing with red shirts
-Three kids are jumping in the leaves
-Children in red shirts are playing in the leaves
-Three kids are jumping in the leaves
-A little girl is looking at a woman in costume
-A young girl is looking at a woman in costume
-A little girl is looking at a woman in costume
-The little girl is looking at a man in costume
-A little girl is looking at a woman in costume
-A little girl in costume looks like a woman
-A lone biker is jumping in the air
+A Seadoo is being ridden by a woman
+A animal is grazing in a field
+A baby and an adult are being followed by a rhino
+A baby elephant is eating a small tree
+A baby elephant is not eating a small tree
+A baby is cheerfully playing with a dog
+A baby is cheering another baby
+A baby is crawling happily
+A baby is crying
+A baby is laughing
+A baby is licking a dog
+A baby is not crawling happily
+A baby is not playing a guitar
+A baby is not playing with a doll
+A baby is playing a guitar
+A baby is playing with a dog 
+A baby is playing with a doll
+A baby is playing with a toy
+A baby is sitting
+A baby is sneezing and frightening another baby
+A baby is sneezing and scaring another baby
+A baby is splashing inside a blue paddling pool
+A baby is talking
+A baby is toddling happily
+A baby rhino and its mother are standing in a pen
+A baby rhino is following an adult rhino
+A baby rhino is shunning an adult rhino
+A baby rhino is walking around a pen with its mother
+A baby tiger is playing with a ball
+A badger is shrewdly digging the earth
+A badger, which is shrewd, is digging the earth
+A bald man in a band is playing an instrument in the spotlight
+A bald man in a band is playing guitar in the spotlight
+A bald person is playing a guitar
+A ball is being caught by a dog in mid air
+A ball is being chased by a dog on the grass
+A ball is being chased by a yellow dog
+A ball made of wood is being played through a door in front of a large group of boys 
+A ball, which is green and big, is knocking a potato
+A banana is being eaten by a man
+A banana is being peeled by a person
+A band is not performing on a stage
+A band is not playing some instruments
+A band is performing on a stage
+A band is performing onstage
+A band is playing on a stage
+A band is playing onstage
+A band is playing some instruments
+A barefoot man in pajamas is looking toward the sky and is standing on the tennis court
+A barefoot man in pajamas is looking toward the sky and is walking on the tennis court
+A barefoot man in pajamas is looking toward the stars and is walking on the tennis court
+A baseball is being held in its mouth by a black and white dog
+A basketball player is on the court floor and another one is grabbing the ball
+A basketball player is on the court floor and the ball is being grabbed by another one
+A bearded man is sitting by a shopping cart and is dropping a cardboard sign
+A bearded man is standing by a shopping cart and is holding a cardboard sign
+A bee is clinging to a yellow flower
+A bee is taking off from a yellow flower
+A bicycle is being ridden by a man
+A bicycle is being ridden by the little boy in a race
+A bicyclist is holding a bike over his head in a group of people
+A bicyclist is jumping on a pyramid-shaped ramp
+A bicyclist is performing a trick over a clean wall
+A bicyclist is performing a trick over a heavily graphitized wall
+A bicyclist is performing a trick over wall full of graffiti
+A big black and white dog is carrying a stick and is swimming
+A big black dog is wearing a red collar and is in the leaves with a blue ball
+A big brown and white spotted dog is lying on a cloth on the street
+A big brown and white spotted dog is lying on a jacket on the street
+A big brown dog and a small grey dog are standing on a rocky surface
+A big cat is opening a drawer made of plastic with its paws and is jumping inside
+A big cat is opening a plastic drawer with its paws and is jumping inside
+A big city is begging for men and money holders
+A big dog and a small dog with a white coat are playing together
+A big dog and a small white dog are playing together
+A big dog and a small white dog are walking past each other
+A big dog is running on the ground
+A big fish is catching a man
+A big green ball is knocking a potato
+A big green ball is missing a potato
+A big group of people are standing and two are sitting on the couch
+A big potato is knocking a green ball
+A big wave is being ridden by a surfer across dark green water
+A big white dog is running across a lawn
+A bike is being held over his head by a bicyclist in a group of people
+A bike is being ridden by a person
+A bike is being ridden by a woman wearing paint and costume pieces on a busy street
+A bike is being ridden over a monkey
+A bike is ridden on the road by a young boy in a helmet 
+A bike rider in a black and red uniform is jumping down off a dirt bike
+A bike rider in a black and red uniform is standing on a dirt bike
 A biker is jumping in the air, alone
-There is no biker jumping in the air
-A lone biker is jumping in the air
-A man is jumping into an empty swimming pool
-A man is jumping into an empty pool
-A man is jumping into a full pool
-A man is jumping into an empty pool
-The man's jumper is in the empty pool
-A lone biker is jumping in the air
-A man is jumping into an empty swimming pool
-A lone biker is jumping in the air
-A man is jumping into a full pool
-The man's jumper is in the empty pool
-A lone biker is jumping in the air
-A man is jumping into an empty pool
-A biker is jumping in the air, alone
-A man is jumping into an empty pool
-There is no biker jumping in the air
-A lone biker is jumping in the air
-A man is jumping into an empty pool
-Four kids are doing backbends in the park
-Four children are doing backbends in the park
-Four children are doing backbends in the gym
-Four children are doing backbends in the park
-Four girls are doing backbends and playing indoors
-Four children are doing backbends in the park
-Four kids are doing backbends in the park
-Four girls are doing backbends and playing outdoors
-Four children are doing backbends in the gym
-Four girls are doing backbends and playing outdoors
-Four children are doing backbends in the park
-A man who is playing is running with the ball in his hands
-A player is running with the ball
-A player is throwing the ball
-A player is running with the ball
-Two groups of people are playing football
-Two teams are competing in a football match
-Two teams are competing in a baseball game
-Two teams are competing in a football match
-Football is being played by two competing teams
-Two groups of people are playing football
-A player is running with the ball
-Two teams are competing in a baseball game
-A player is running with the ball
-Football is being played by two competing teams
+A biker is naked
+A biker is riding along the top of a fence
+A biker is riding away from a fence
+A biker is wearing gear which is black
+A biker on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up
+A biker wearing black is breaking the gears
+A biker with a blue jacket, black pants and a white helmet is driving on dirt and people are watching
