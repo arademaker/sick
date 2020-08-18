@@ -17,3 +17,6 @@ treebanking:
 #+BEGIN_SRC bash
 fftb -g erg.dat --webdir /usr/local/fftb/assets/ sample
 #+END_SRC
+
+
+annotation 100 / < 6 hours
