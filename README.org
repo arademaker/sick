@@ -1,15 +1,65 @@
+#+title: treebanking SICK dataset with ERG
 
-grammar compilation (stable release):
+** data
+
+- https://www.aclweb.org/anthology/L14-1314/
+- http://marcobaroni.org/composes/sick.html
+- https://zenodo.org/record/2787612#.X0E1SS2z31A
+
+also mentioned at http://nlpprogress.com/english/semantic_textual_similarity.html
+
+SICK contains 9,841 pairs of sentences, the text file contains one line for each pair:
+
+#+BEGIN_EXAMPLE
+            pair_ID: 1
+         sentence_A: A group of kids is playing in a yard and an old man is standing in the background
+         sentence_B: A group of boys in a yard is playing and a man is standing in the background
+   entailment_label: NEUTRAL
+  relatedness_score: 4.5
+      entailment_AB: A_neutral_B
+      entailment_BA: B_neutral_A
+sentence_A_original: A group of children playing in a yard, a man in the background.
+sentence_B_original: A group of children playing in a yard, a man in the background.
+ sentence_A_dataset: FLICKR
+ sentence_B_dataset: FLICKR
+        SemEval_set: TRAIN
+#+END_EXAMPLE
+
+Considering the sentences only for treebanking, we have many
+duplications. For instance, the sentence 'A man is playing a guitar'
+occurs 63 times.
+
+#+BEGIN_EXAMPLE
+% awk -F "\t" -v OFS="\n" 'NR > 1 {print $2,$3}' SICK.txt | wc -l
+   19680
+% awk -F "\t" -v OFS="\n" 'NR > 1 {print $2,$3}' SICK.txt | sort | uniq | wc -l
+    6076
+% awk -F "\t" -v OFS="\n" 'NR > 1 {print $2,$3,$8,$9}' SICK.txt | sort | uniq | wc -l
+    7985
+#+END_EXAMPLE
+
+** grammar compilation
+
+grammar compilation (trunk version):
 
 #+BEGIN_SRC bash
-ace -g ~/logon/lingo/ace/config.tdl -G erg.dat
+ace -g ~/hpsg/terg/ace/config.tdl -G erg.dat
 #+END_SRC
+
+** profile for fftb treebank
 
 profile construction:
 
 #+BEGIN_SRC bash
-mkprof -r ~/logon/lingo/erg/tsdb/gold/mrs/relations -i sample.txt sample
-art -a "ace -g erg.dat -O --disable-generalization" -f sample
+mkprof -r ~/logon/lingo/erg/tsdb/gold/mrs/relations -i sample.txt golden
+art -a "ace -g erg.dat -O --disable-generalization" -f golden
+#+END_SRC
+
+with ACE/PyDelphin:
+
+#+BEGIN_SRC bash
+delphin mkprof --input sample.txt --relations ~/hpsg/logon/lingo/lkb/src/tsdb/skeletons/english/Relations --skeleton golden
+delphin process golden -g terg-macos.dat --full-forest --options='--disable-generalization'
 #+END_SRC
 
 treebanking:
@@ -18,5 +68,22 @@ treebanking:
 fftb -g erg.dat --webdir /usr/local/fftb/assets/ sample
 #+END_SRC
 
+annotation in ~6 hours
 
-annotation 100 / < 6 hours
+** profile processing with ACE
+
+#+BEGIN_SRC bash
+delphin process -g erg.dat -o "-n 1" -s golden parsed
+#+END_SRC
+
+** comparing the profiles
+
+#+BEGIN_SRC bash
+% delphin edm golden parsed
+Precision:	0.9637710992177851
+   Recall:	0.9683557394002068
+  F-score:	0.9660579799855565
+#+END_SRC
+
+Probably, I need a bigger set as golden to have better clue about the
+performance of the grammar.
