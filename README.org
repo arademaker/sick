@@ -26,7 +26,7 @@ sentence_B_original: A group of children playing in a yard, a man in the backgro
 #+END_EXAMPLE
 
 Considering the sentences only for treebanking, we have many
-duplications. For instance, the sentence 'A man is playing a guitar'
+repetitions. For instance, the sentence 'A man is playing a guitar'
 occurs 63 times.
 
 #+BEGIN_EXAMPLE
