@@ -1,0 +1,697 @@
+INFO:delphin.edm:Computing EDM (N=1, A=1, P=1, T=1)
+INFO:delphin.edm:pair 1
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 2
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 3
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   19	  19	  19	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 4
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   25	  25	  25	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 5
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   10	  10	  10	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   30	  30	  30	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 6
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 7
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 8
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    3	   3	   3	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   14	  14	  14	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 9
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    3	   3	   3	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    2	   2	   2	1.000	1.000	1.000
+INFO:delphin.edm: Properties:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 10
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    3	   3	   3	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    2	   2	   2	1.000	1.000	1.000
+INFO:delphin.edm: Properties:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 11
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 12
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   19	  19	  19	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 13
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 14
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 15
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 16
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 17
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 18
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 19
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    3	   3	   3	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    2	   2	   2	1.000	1.000	1.000
+INFO:delphin.edm: Properties:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 20
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 21
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 22
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   10	  10	  10	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   37	  37	  37	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 23
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    3	   3	   3	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    2	   2	   2	1.000	1.000	1.000
+INFO:delphin.edm: Properties:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 24
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    3	   3	   3	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   14	  14	  14	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 25
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  16	  14	0.875	0.778	0.824
+INFO:delphin.edm:  Arguments:   17	  15	  14	0.933	0.824	0.875
+INFO:delphin.edm: Properties:   42	  40	  35	0.875	0.833	0.854
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   0	0.000	0.000	0.000
+INFO:delphin.edm:pair 26
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   25	  25	  25	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 27
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   25	  25	  25	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 28
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   15	  15	  15	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   14	  14	  13	0.929	0.929	0.929
+INFO:delphin.edm: Properties:   43	  43	  43	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 29
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   25	  25	  25	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 30
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   5	0.833	0.833	0.833
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   12	  13	  12	0.923	1.000	0.960
+INFO:delphin.edm:  Constants:    0	   1	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 31
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   5	0.833	0.833	0.833
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   17	  18	  17	0.944	1.000	0.971
+INFO:delphin.edm:  Constants:    0	   1	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 32
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   12	  12	  12	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   36	  36	  36	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 33
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   12	  12	  12	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   34	  34	  34	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 34
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 35
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   27	  27	  27	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 36
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   21	  21	  21	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 37
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 38
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   15	  15	  15	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   14	  14	  14	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   40	  40	  40	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 39
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   28	  28	  28	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 40
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 41
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 42
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 43
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 44
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 45
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 46
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 47
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 48
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    4	   4	   4	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 49
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   57	  57	  57	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 50
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  18	  17	0.944	0.944	0.944
+INFO:delphin.edm:  Arguments:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   57	  57	  57	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 51
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  18	  17	0.944	0.944	0.944
+INFO:delphin.edm:  Arguments:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   58	  58	  58	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 52
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   14	  15	  13	0.867	0.929	0.897
+INFO:delphin.edm:  Arguments:   14	  15	  13	0.867	0.929	0.897
+INFO:delphin.edm: Properties:   40	  47	  40	0.851	1.000	0.920
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 53
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   17	  17	  17	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   43	  45	  43	0.956	1.000	0.977
+INFO:delphin.edm:  Constants:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 54
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   17	  17	  17	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   43	  45	  43	0.956	1.000	0.977
+INFO:delphin.edm:  Constants:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 55
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  15	  15	1.000	0.833	0.909
+INFO:delphin.edm:  Arguments:   18	  15	  14	0.933	0.778	0.848
+INFO:delphin.edm: Properties:   57	  48	  48	1.000	0.842	0.914
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 56
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   15	  15	  15	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   15	  15	  15	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   48	  48	  48	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 57
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   5	0.714	0.714	0.714
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 58
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 59
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   6	   5	0.833	1.000	0.909
+INFO:delphin.edm:  Arguments:    4	   5	   3	0.600	0.750	0.667
+INFO:delphin.edm: Properties:   13	  18	  13	0.722	1.000	0.839
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 60
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   27	  27	  27	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 61
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   16	  16	  16	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   15	  15	  15	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   44	  44	  44	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 62
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   10	  12	   8	0.667	0.800	0.727
+INFO:delphin.edm:  Arguments:    9	  11	   8	0.727	0.889	0.800
+INFO:delphin.edm: Properties:   29	  30	  24	0.800	0.828	0.814
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 63
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   27	  27	  27	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 64
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   10	  10	  10	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   32	  32	  32	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 65
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   11	  12	  10	0.833	0.909	0.870
+INFO:delphin.edm:  Arguments:   10	  11	   8	0.727	0.800	0.762
+INFO:delphin.edm: Properties:   28	  31	  26	0.839	0.929	0.881
+INFO:delphin.edm:  Constants:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:       Tops:    1	   1	   0	0.000	0.000	0.000
+INFO:delphin.edm:pair 66
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   12	  12	  12	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   39	  39	  39	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 67
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   16	  16	  15	0.938	0.938	0.938
+INFO:delphin.edm:  Arguments:   16	  16	  15	0.938	0.938	0.938
+INFO:delphin.edm: Properties:   54	  56	  54	0.964	1.000	0.982
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 68
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   14	  16	  12	0.750	0.857	0.800
+INFO:delphin.edm:  Arguments:   14	  16	  11	0.688	0.786	0.733
+INFO:delphin.edm: Properties:   48	  51	  45	0.882	0.938	0.909
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 69
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   14	  16	  12	0.750	0.857	0.800
+INFO:delphin.edm:  Arguments:   14	  16	  11	0.688	0.786	0.733
+INFO:delphin.edm: Properties:   48	  51	  45	0.882	0.938	0.909
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 70
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   15	  15	  15	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   14	  14	  14	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   49	  49	  49	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 71
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   21	  21	  18	0.857	0.857	0.857
+INFO:delphin.edm:  Arguments:   21	  21	  17	0.810	0.810	0.810
+INFO:delphin.edm: Properties:   63	  69	  61	0.884	0.968	0.924
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   0	0.000	0.000	0.000
+INFO:delphin.edm:pair 72
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   19	  19	  19	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   19	  19	  19	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   63	  63	  63	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 73
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   13	  13	  12	0.923	0.923	0.923
+INFO:delphin.edm:  Arguments:   12	  12	  11	0.917	0.917	0.917
+INFO:delphin.edm: Properties:   27	  28	  27	0.964	1.000	0.982
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 74
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   14	  14	  14	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   44	  44	  44	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 75
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   10	  10	  10	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   35	  35	  35	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 76
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   13	  13	  13	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   12	  12	  12	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   35	  35	  35	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 77
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   6	0.857	0.857	0.857
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   22	  22	  22	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 78
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 79
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 80
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 81
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  14	  13	0.929	0.722	0.813
+INFO:delphin.edm:  Arguments:   17	  14	   9	0.643	0.529	0.581
+INFO:delphin.edm: Properties:   55	  41	  39	0.951	0.709	0.812
+INFO:delphin.edm:  Constants:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:       Tops:    1	   1	   0	0.000	0.000	0.000
+INFO:delphin.edm:pair 82
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 83
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   11	  11	  10	0.909	0.909	0.909
+INFO:delphin.edm:  Arguments:   10	  10	   9	0.900	0.900	0.900
+INFO:delphin.edm: Properties:   35	  35	  34	0.971	0.971	0.971
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 84
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    8	   7	   6	0.857	0.750	0.800
+INFO:delphin.edm:  Arguments:    7	   6	   5	0.833	0.714	0.769
+INFO:delphin.edm: Properties:   28	  23	  23	1.000	0.821	0.902
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 85
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   16	  16	  15	0.938	0.938	0.938
+INFO:delphin.edm:  Arguments:   15	  15	  14	0.933	0.933	0.933
+INFO:delphin.edm: Properties:   42	  42	  42	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 86
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    5	   6	   5	0.833	1.000	0.909
+INFO:delphin.edm:  Arguments:    4	   5	   3	0.600	0.750	0.667
+INFO:delphin.edm: Properties:   13	  18	  13	0.722	1.000	0.839
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 87
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   19	  20	  17	0.850	0.895	0.872
+INFO:delphin.edm:  Arguments:   18	  19	  15	0.789	0.833	0.811
+INFO:delphin.edm: Properties:   45	  50	  45	0.900	1.000	0.947
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   0	0.000	0.000	0.000
+INFO:delphin.edm:pair 88
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 89
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   12	  12	  12	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   11	  11	  11	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   34	  34	  34	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 90
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   19	  19	  17	0.895	0.895	0.895
+INFO:delphin.edm:  Arguments:   19	  19	  17	0.895	0.895	0.895
+INFO:delphin.edm: Properties:   55	  59	  55	0.932	1.000	0.965
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 91
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:   18	  18	  18	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   54	  54	  54	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 92
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   6	0.857	0.857	0.857
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   24	  24	  24	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 93
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    3	   3	   3	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    2	   2	   2	1.000	1.000	1.000
+INFO:delphin.edm: Properties:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 94
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    9	   9	   9	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   27	  27	  27	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 95
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    7	   7	   5	0.714	0.714	0.714
+INFO:delphin.edm:  Arguments:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   19	  23	  19	0.826	1.000	0.905
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 96
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    6	   6	   6	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    5	   5	   5	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   16	  16	  16	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 97
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   21	  20	  19	0.950	0.905	0.927
+INFO:delphin.edm:  Arguments:   20	  19	  19	1.000	0.950	0.974
+INFO:delphin.edm: Properties:   66	  61	  61	1.000	0.924	0.961
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 98
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:    8	   8	   8	1.000	1.000	1.000
+INFO:delphin.edm:  Arguments:    7	   7	   7	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   20	  20	  20	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+INFO:delphin.edm:pair 99
+INFO:delphin.edm:             gold	test	both	Prec.	Rec.	F-Score
+INFO:delphin.edm:      Names:   24	  24	  23	0.958	0.958	0.958
+INFO:delphin.edm:  Arguments:   23	  23	  23	1.000	1.000	1.000
+INFO:delphin.edm: Properties:   66	  66	  66	1.000	1.000	1.000
+INFO:delphin.edm:  Constants:    0	   0	   0	0.000	0.000	0.000
+INFO:delphin.edm:       Tops:    1	   1	   1	1.000	1.000	1.000
+Precision:	0.9637710992177851
+   Recall:	0.9683557394002068
+  F-score:	0.9660579799855565
