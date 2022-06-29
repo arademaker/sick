@@ -1,0 +1,21 @@
+> Loading sentences-aa
+> no parse for 'A hole is being burrowed by the badger'
+> no parse for 'A prey is quickly running behind the cheetah'
+> no parse for 'The orange colored dices are being cast by a cook to win the pepper'
+> no parse for 'The man is cooking slices of potato'
+> no parse for 'The lady is penciling on eyeshadow'
+> no parse for 'The woman is penciling on eyeshadow'
+> no parse for 'The woman is not penciling on eyeshadow'
+> Loading sentences-ab
+> no parse for 'A person is jotting something with a pencil'
+> no parse for 'A man is drawing on a digital dry erase board'
+> no parse for 'A man is not drawing on a digital dry erase board'
+> no parse for 'A yellow flower is being clung to by a bee'
+> Loading sentences-ac
+> no parse for 'A hurdle is being leapt by a horse that has a rider on its back'
+> no parse for 'A topless woman is being smeared with brown substance and a nobody is in the background'
+> no parse for 'A boy is wearing all black and is sliding down a blow up yellow slide'
+> no parse for 'A boy is wearing all black and is sliding down a blow up slide'
+> no parse for 'A girl is wearing all black and is sliding down a blow up yellow slide'
+> no parse for 'A cyclist is biking in a snowy forest at day'
+> Loading sentences-ad
