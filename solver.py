@@ -11,11 +11,9 @@ utool = utoolclient.UtoolConnection()
 
 def no_result():
     for p in profiles:
-        ts = itsdb.TestSuite(f'{root}/{p}')
-        
         print(f"> Loading {p}")
-        rows = tsql.select('i-id i-input readings', ts)
-        for r in rows:
+        ts = itsdb.TestSuite(f'{root}/{p}')
+        for r in tsql.select('i-id i-input readings', ts):
             if int(r[2]) == 0:
                 print(f"> no parse for '{r[1]}'")
         
