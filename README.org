@@ -27,7 +27,7 @@ sentence_B_original: A group of children playing in a yard, a man in the backgro
 
 Considering the sentences only for treebanking, we have many
 repetitions. For instance, the sentence 'A man is playing a guitar'
-occurs 63 times.
+occurs in 63 pairs.
 
 #+BEGIN_EXAMPLE
 % awk -F "\t" -v OFS="\n" 'NR > 1 {print $2,$3}' SICK.txt | wc -l
@@ -38,6 +38,17 @@ occurs 63 times.
     7985
 #+END_EXAMPLE
 
+** data preparation
+
+   1. obtain the SICK.txt file (note that I made few manual editions
+      to FIX errors in the original SICK.txt)
+      
+   2. create the profiles running data/compact.sh
+      
+   3. process the profiles with ACE/ERG (see data/proc-profile.sh)
+
+   4. create the data/sample.txt from the sentences.txt
+      
 ** grammar compilation
 
 grammar compilation (trunk version):
@@ -46,34 +57,34 @@ grammar compilation (trunk version):
 ace -g ~/hpsg/terg/ace/config.tdl -G erg.dat
 #+END_SRC
 
-** profile for fftb treebank
+** profile and fftb treebanking
 
 profile construction:
 
 #+BEGIN_SRC bash
-mkprof -r ~/logon/lingo/erg/tsdb/gold/mrs/relations -i sample.txt golden
-art -a "ace -g erg.dat -O --disable-generalization" -f golden
+mkprof -r ~/logon/lingo/erg/tsdb/gold/mrs/relations -i data/sample.txt data/golden
+art -a "ace -g erg.dat -O --disable-generalization" -f data/golden
 #+END_SRC
 
 with ACE/PyDelphin:
 
 #+BEGIN_SRC bash
-delphin mkprof --input sample.txt --relations ~/hpsg/logon/lingo/lkb/src/tsdb/skeletons/english/Relations --skeleton golden
-delphin process golden -g terg-macos.dat --full-forest --options='--disable-generalization'
+delphin mkprof --input sample.txt --relations ~/hpsg/logon/lingo/lkb/src/tsdb/skeletons/english/Relations --skeleton data/golden
+delphin process data/golden -g erg.dat --full-forest --options='--disable-generalization'
 #+END_SRC
 
 treebanking:
 
 #+BEGIN_SRC bash
-fftb -g erg.dat --webdir /usr/local/fftb/assets/ sample
+fftb -g erg.dat --webdir /usr/local/fftb/assets/ data/sample
 #+END_SRC
 
-annotation in ~6 hours
+The annotation was done in aprox. 6 hours.
 
 ** profile processing with ACE
 
 #+BEGIN_SRC bash
-delphin process -g erg.dat -o "-n 1" -s golden parsed
+delphin process -g erg.dat -o "-n 1" -s data/golden data/parsed
 #+END_SRC
 
 ** comparing the profiles
@@ -85,5 +96,19 @@ Precision:	0.9637710992177851
   F-score:	0.9660579799855565
 #+END_SRC
 
-Probably, I need a bigger set as golden to have better clue about the
-performance of the grammar.
+
+** solver for underspecified scopes
+
+   We used https://github.com/coli-saar/utool to solve the
+   underspecified scopes of quantifiers. This process actually test
+   the consistency of the MRS structures.
+
+   Download utool and start the server with:
+
+   : java -Xmx8g -server -jar utool/Utool-3.4.jar server --logging --warmup
+
+   then execute:
+
+   : python solver.py > solver.txt
+
+   

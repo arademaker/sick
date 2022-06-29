@@ -1,0 +1,362 @@
+> Loading sentences-aa
+> Loaded sentences-aa
+> [93] This group of people is practicing water safety and wearing preservers (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h19 of the root h16 are not hypernormally connected with each other. 
+> [95] Nobody is practicing water safety and wearing preservers (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h9 are not hypernormally connected with each other. 
+> [171] A cowboy is riding a horse and cornering a barrel (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h27 of the root h10 are not hypernormally connected with each other. 
+> [250] A white and tan dog is running through the tall and green grass (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h18 and h7 of the root h15 are not hypernormally connected with each other. 
+> [251] A white and tan dog is running through a field (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h18 and h7 of the root h15 are not hypernormally connected with each other. 
+> [252] A black and tan dog is running through the low and green grass (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h18 and h7 of the root h15 are not hypernormally connected with each other. 
+> [256] A sitting man is busy writing something in an area covered by paint (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not normal (h31 is a nontrivial empty fragment) 
+> [274] Two men are holding fishing poles (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not normal (h27 is a nontrivial empty fragment) 
+> [299] A man dressed in black is riding a bike (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 275.  Encountered: "1" (49), after : "p" 
+> [301] There is no man dressed in black and riding a green bike (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 360.  Encountered: "1" (49), after : "p" 
+> [319] The dog, which is black and white, is running and a person stands behind it (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h11 of the root h4 are not hypernormally connected with each other. 
+> [383] A black, red, white and pink dress is being worn by a woman (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h6 of the root h12 are not hypernormally connected with each other. 
+> [385] There is no black, red, white and pink dress being worn by a woman (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h22 and h8 of the root h19 are not hypernormally connected with each other. 
+> [392] There is no young lady with light brown hair wearing a red necklace, a sweatshirt and earrings and smiling (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [399] A little boy, who looks fearful, is on a climbing wall. (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h13 of the root h5 are not hypernormally connected with each other. 
+> [494] A woman, who is old, is near a dog that has a white coat (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [495] A woman, who is old, is near a white dog (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [496] A woman, who is old, is far from a white dog (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [511] Two people are in the snow not wearing clothes, which provides camouflage.  (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h22 of the root h19 are not hypernormally connected with each other. 
+> [512] A girl from Asia, in front of a brick window, looks surprised (9/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1308.  Encountered: "3" (51), after : "p" 
+> [513] A girl from Asia, in front of a window made of bricks, looks surprised (5/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 967.  Encountered: "2" (50), after : "p" 
+> [545] One white dog and one black one are cheerfully running side by side on the grass (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [546] One white dog and one black one are running side by side on the grass (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [557] A girl in a uniform, which is blue, is raising her arm. (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h18 of the root h5 are not hypernormally connected with each other. 
+> [558] A girl in a uniform, which is blue, is lowering her arm (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h18 of the root h5 are not hypernormally connected with each other. 
+> [603] Two young kids are eating corndogs (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h6 of the root h9 are not hypernormally connected with each other. 
+> [605] Two young kids are fasting (8/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h6 of the root h9 are not hypernormally connected with each other. 
+> [613] There is no man in a pose being watched by another man (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not normal (h28 is a nontrivial empty fragment) 
+> [623] An adult is in the amphitheater and is talking seriously to a boy (5/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 841.  Encountered: "2" (50), after : "p" 
+> [624] An adult is in the amphitheater and is talking to a boy (4/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 927.  Encountered: "2" (50), after : "p" 
+> [648] A newspaper is featuring a woman with large sized hands holding sunglasses and wearing a coat (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [664] A dog, which is small, is playing tirelessly on the green grass (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [665] A dog, which is small, is playing on the green grass (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [666] A dog, which is small, is running out of the green grass (8/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [753] A man is speaking on a stage (3/7 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 657.  Encountered: "1" (49), after : "p" 
+> [755] A man is speaking about the stage (4/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 657.  Encountered: "1" (49), after : "p" 
+> [757] A woman is talking on a telephone (3/5 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 661.  Encountered: "1" (49), after : "p" 
+> [758] A woman is not talking on a telephone (4/7 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 630.  Encountered: "1" (49), after : "p" 
+> [843] A man is talking on the phone (2/3 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 659.  Encountered: "1" (49), after : "p" 
+> [846] A man is talking on a cell phone (4/9 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 659.  Encountered: "1" (49), after : "p" 
+> [997] A badger, which is shrewd, is digging the earth (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1016] A poor man is being fed snakes and mice (5/8 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 742.  Encountered: "2" (50), after : "p" 
+> [1072] A man is emptying a container made of plastic completely (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 583.  Encountered: "1" (49), after : "p" 
+> [1073] A man is emptying a container made of plastic (3/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 583.  Encountered: "1" (49), after : "p" 
+> [1074] A man is filling a container made of plastic (3/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 585.  Encountered: "1" (49), after : "p" 
+> [1159] The girl, who is little, is combing her hair into a pony tail. (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1160] The girl, who is little, is ruffling her hair (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1202] The windows are being polished by a man (6/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 559.  Encountered: "1" (49), after : "p" 
+> [1205] The man has a window of time to clean himself (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. Free variable x20. 
+> [1298] A boy in his teens is talking to a girl with an internet camera (8/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1105.  Encountered: "2" (50), after : "p" 
+> [1299] A boy in his teens is talking to a girl with a webcam (8/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1105.  Encountered: "2" (50), after : "p" 
+> [1300] A boy in his teens isn't talking to a girl with a webcam (8/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1181.  Encountered: "2" (50), after : "p" 
+> [1301] The teens are talking to a boy and a girl with a webcam (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 668.  Encountered: "1" (49), after : "p" 
+> [1366] The woman is cracking two eggs into a bowl made of glass (7/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1162.  Encountered: "2" (50), after : "p" 
+> [1533] A rhino, which is little, is following an adult rhino (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1579] Some persons are riding and paddling a raft (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [1596] A girl, who is little, is playing the piano (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1640] A man is wearing a hat which is hard and is dancing (8/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 513.  Encountered: "1" (49), after : "p" 
+> [1700] A woman, who is seated, is singing a song and playing the guitar (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1859] A ball, which is green and big, is knocking a potato (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h13 of the root h5 are not hypernormally connected with each other. 
+> [1885] There is no man in a suit standing at a microphone and singing (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [1905] The puppy is playing with a container made of plastic (3/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 695.  Encountered: "1" (49), after : "p" 
+> [1919] A woman is driving a car and is animatedly talking to the man who is seated beside her (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 930.  Encountered: "2" (50), after : "p" 
+> [1920] A woman is driving a car and is talking to the man who is seated beside her (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 917.  Encountered: "2" (50), after : "p" 
+> [1921] There is no woman driving a car and talking to the man seated beside her (0/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 916.  Encountered: "2" (50), after : "p" 
+> [1946] A man is flooring a sitting guitar player (1/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not normal (h22 is a nontrivial empty fragment) 
+> [1963] A baby is sneezing and scaring another baby (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [1964] A baby is sneezing and frightening another baby (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [1965] A baby is cheering another baby (5/9 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [1989] A boy, who is young, is playing a wind instrument (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> Loading sentences-ab
+> Loaded sentences-ab
+> [14] A kitten is playing with a toy made of blue rope (6/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 658.  Encountered: "1" (49), after : "p" 
+> [55] The boy, who is young, is running through the ocean waves (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h11 of the root h4 are not hypernormally connected with each other. 
+> [84] The woman is chopping some bread and fried pork (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h9 are not hypernormally connected with each other. 
+> [160] A woman is being handed volleyballs by another woman (6/7 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 547.  Encountered: "1" (49), after : "p" 
+> [243] A man doing exercises is being floored (7/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1029.  Encountered: "2" (50), after : "p" 
+> [493] A kangaroo is picking up the woman's baby (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [552] A cute panda is not lying down (7/8 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 707.  Encountered: "2" (50), after : "p" 
+> [743] A man is not talking on the phone (2/4 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 628.  Encountered: "1" (49), after : "p" 
+> [754] A couple is running and holding hands (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h12 and h23 of the root h20 are not hypernormally connected with each other. 
+> [871] Some pieces of butter are being added to the stand mixer (8/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 752.  Encountered: "1" (49), after : "p" 
+> [1013] A man in a car is pulling up beside a woman that is who along a road (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h34 of the root h31 are not hypernormally connected with each other. 
+> [1037] A big cat is opening a drawer made of plastic with its paws and is jumping inside (4/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 666.  Encountered: "1" (49), after : "p" 
+> [1040] A cat is opening a drawer and jumping inside (8/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h9 are not hypernormally connected with each other. 
+> [1041] A cat is opening a drawer and climbing inside (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h28 of the root h10 are not hypernormally connected with each other. 
+> [1042] A dog is opening a drawer and climbing inside (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h28 of the root h10 are not hypernormally connected with each other. 
+> [1592] A child, who has blond hair, is holding a yellow bottle (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1603] A crane, which is large and white, is flying near the water (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1617] There is no young girl in a blue shirt walking on the sidewalk and holding up a pink sign (8/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [1622] One man in a big city is holding up a sign and begging for money (0/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1151.  Encountered: "2" (50), after : "p" 
+> [1623] A man in a big city is holding a sign and begging for money (0/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 1038.  Encountered: "2" (50), after : "p" 
+> [1625] A big city is begging for men and money holders (0/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 354.  Encountered: "9" (57), after : "p" 
+> [1626] A homeless man is holding up a sign and is begging for money (0/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 770.  Encountered: "1" (49), after : "p" 
+> [1627] A homeless man is holding up a sign and is pitifully begging for money (0/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 867.  Encountered: "1" (49), after : "p" 
+> [1630] A dog, which is small, is chasing a large brown cow (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1688] A dog, which has a brown and white coat, is holding a baseball in its mouth (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1696] A boy, who looks young and is wearing a red swimsuit, is jumping into a blue kiddies pool (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1721] The boy and the girl are cheerfully playing and wearing arm floats (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h22 and h35 of the root h32 are not hypernormally connected with each other. 
+> [1722] The boy and the girl are playing and wearing arm floats (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h22 and h34 of the root h31 are not hypernormally connected with each other. 
+> [1723] The boy and the girl are not playing and wearing arm floats (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h25 and h37 of the root h34 are not hypernormally connected with each other. 
+> [1769] A dog, which is brown, is jumping in the air (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1772] A malnourished looking dog is standing on its hind legs and preparing to jump (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not hypernormally connected.  
+> [1773] The malnourished looking dog is standing on its hind legs and is preparing to jump (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not hypernormally connected.  
+> [1774] A healthy looking dog is lying on the ground (1/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not hypernormally connected.  
+> [1794] A dog, which has a black coat, is running in the grass and its tongue is hanging out (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h11 of the root h4 are not hypernormally connected with each other. 
+> [1798] A dog, which is black, is running in the grass (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1823] A dog, which is tan, is running through the snow (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1839] A child, who is young, is riding a bike on a rough dirt path (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1855] A child, who is young, is wearing a white coat and playing a game (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1893] There is no man in a purple suit standing by a purple case and playing a guitar (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [1904] A small boy in a shirt, which is yellow, is laughing on the beach (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h19 of the root h5 are not hypernormally connected with each other. 
+> [1912] The rescue boat, which is orange, is rushing across the water (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h18 of the root h5 are not hypernormally connected with each other. 
+> [1937] A picture of himself and another guy is being taken by the man (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h7 and h9 of the root h12 are not hypernormally connected with each other. 
+> [1944] A dog, which is little and black, is chasing a little brown dog (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1968] A child, who looks young, is standing in front of some trees (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [1974] Two people are looking at a statue made of gold (9/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 693.  Encountered: "1" (49), after : "p" 
+> Loading sentences-ac
+> Loaded sentences-ac
+> [17] A dog, which is tan, is running through the brush (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [81] A bird, which is black, is sitting on a dead tree (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [109] There is no large brown dog and small grey dog standing on a rocky surface (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h11 of the root h5 are not hypernormally connected with each other. 
+> [123] A man elegantly dressed in black is wearing an elaborate black mask (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 361.  Encountered: "1" (49), after : "p" 
+> [124] A man dressed in black is wearing an elaborate black mask (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 275.  Encountered: "1" (49), after : "p" 
+> [132] Two children are crouching under some bars made of metal (7/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 971.  Encountered: "2" (50), after : "p" 
+> [140] A sports uniform is being worn by a man who is running down the field (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h15 of the root h18 are not hypernormally connected with each other. 
+> [149] A duck, which is large, is flying over a rocky stream (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [162] Two children, who are small, are playing with a toy car in the street (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h14 of the root h5 are not hypernormally connected with each other. 
+> [212] There is no man holding a sign and seeking money (1/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h14 and h8 of the root h11 are not hypernormally connected with each other. 
+> [237] Music is being performed by four people outdoors (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h16 of the root h9 are not hypernormally connected with each other. 
+> [252] A family, which looks happy, is posing by the fireplace (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [291] The rider on the blue and black motocross bike is not wearing the pants (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h13 and h24 of the root h21 are not hypernormally connected with each other. 
+> [328] There is no group of people standing together and looking at the camera (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [332] A child is sitting in a red and yellow toy car (3/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h13 and h24 of the root h21 are not hypernormally connected with each other. 
+> [334] There is no child sitting in a red and yellow toy car (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h15 and h26 of the root h23 are not hypernormally connected with each other. 
+> [350] There is no brown dog and black dog playing in the sand (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h10 of the root h5 are not hypernormally connected with each other. 
+> [428] A woman is speaking on her cell phone and is keeping a purse and a yellow bag on the near ledge (8/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h46 of the root h30 are not hypernormally connected with each other. 
+> [429] A woman is silent and is leaving a purse and a yellow bag on the near ledge (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h29 of the root h13 are not hypernormally connected with each other. 
+> [513] A child, who is young, dressed for cold weather, is standing outside (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h11 of the root h4 are not hypernormally connected with each other. 
+> [543] A red dog is sitting and dropping a tennis ball from its mouth (4/10 readings)
+ Error: A semantic error occurred while decoding the graph. Variable x3 is used by distinct quantifiers. 
+> [667] A girl dressed in purple and blue is slowly walking beside her bike at night (4/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 275.  Encountered: "1" (49), after : "p" 
+> [668] A girl dressed in purple and blue is walking beside her bike at night (5/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 275.  Encountered: "1" (49), after : "p" 
+> [685] A child in a green and white sports uniform is resting on the grass (6/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h13 and h24 of the root h21 are not hypernormally connected with each other. 
+> [720] Some children are wearing black tights and hopping (9/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> [737] A boy, who is wearing a blue coat, is being held by his father under an umbrella  (5/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h1 and h12 of the root h5 are not hypernormally connected with each other. 
+> [887] A basketball player is on the court floor and the ball is being grabbed by another one (8/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled.  
+> [921] A man dressed in black and white is holding up the tennis racket and is waiting for the ball (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 274.  Encountered: "1" (49), after : "p" 
+> [922] A player dressed in black and white is holding up the tennis racket and is waiting for the ball (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 307.  Encountered: "1" (49), after : "p" 
+> [923] A man dressed in black and white is dropping the tennis racket and is waiting for the ball (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 274.  Encountered: "1" (49), after : "p" 
+> [1002] Several young people are posing for a photo and holding beers (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not normal (h30 is a nontrivial empty fragment) 
+> [1003] Several young people are posing for a photo and holding drinks (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not normal (h30 is a nontrivial empty fragment) 
+> [1004] Several old people are posing for a photo and holding beers (8/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not normal (h30 is a nontrivial empty fragment) 
+> [1005] A girl with red hair and red eyebrows is talking (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h15 and h7 of the root h10 are not hypernormally connected with each other. 
+> [1006] A girl with red hair and red eyebrows is in midspeech (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h15 and h7 of the root h10 are not hypernormally connected with each other. 
+> [1055] A girl has black and orange patches on the cheeks (1/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h12 and h23 of the root h20 are not hypernormally connected with each other. 
+> [1057] There is no girl with black and orange patches on the cheeks (2/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h14 and h25 of the root h22 are not hypernormally connected with each other. 
+> [1195] A skier dressed in black is catching a tiny bit of air (9/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 277.  Encountered: "1" (49), after : "p" 
+> [1220] A young man in a white shirt and gold and black hat is sitting with crossed legs (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h14 and h26 of the root h27 are not hypernormally connected with each other. 
+> [1221] A young person in a white shirt and gold and black hat is sitting with crossed legs (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h14 and h26 of the root h27 are not hypernormally connected with each other. 
+> [1222] An old man in a white shirt and gold and black hat is sitting with crossed legs (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h14 and h26 of the root h27 are not hypernormally connected with each other. 
+> [1250] Two women dressed in white and black are relaxing on a bench (6/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 385.  Encountered: "1" (49), after : "p" 
+> [1251] Two women dressed in white and black are sitting on a bench (6/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 385.  Encountered: "1" (49), after : "p" 
+> [1252] Two men dressed in white and black are sitting on a bench (4/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 383.  Encountered: "1" (49), after : "p" 
+> [1304] A man with a white hat and brown shirt is behind a woman in red and is looking to the left (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h15 and h7 of the root h10 are not hypernormally connected with each other. 
+> [1305] A man with a white hat and brown shirt is behind a woman in red and is looking to the side (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h15 and h7 of the root h10 are not hypernormally connected with each other. 
+> [1306] A man with a white hat and brown shirt is behind a woman in red and is looking to the right (0/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h15 and h7 of the root h10 are not hypernormally connected with each other. 
+> [1365] A man dressed in black is wearing inline skates and performing acrobatics on a rail (8/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 275.  Encountered: "1" (49), after : "p" 
+> [1366] A man dressed in black is wearing inline skates and performing a trick on a rail (4/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 275.  Encountered: "1" (49), after : "p" 
+> [1367] A woman dressed in black is wearing inline skates and performing a trick on a rail (4/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 277.  Encountered: "1" (49), after : "p" 
+> [1374] A black and orange bird is standing on the lawn (1/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h18 and h7 of the root h15 are not hypernormally connected with each other. 
+> [1375] A black and orange bird is standing in the grass (1/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h18 and h7 of the root h15 are not hypernormally connected with each other. 
+> [1376] A black and orange bird is not standing in the grass (1/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h18 and h7 of the root h15 are not hypernormally connected with each other. 
+> [1553] The dog has its head inside a red and green gift bag (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h24 and h35 of the root h32 are not hypernormally connected with each other. 
+> [1554] A dog has its head inside a red and green gift bag (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h24 and h35 of the root h32 are not hypernormally connected with each other. 
+> [1555] A dog has its head outside a red and green gift bag (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h26 and h37 of the root h34 are not hypernormally connected with each other. 
+> [1596] Two dogs are playing on a beach made of rocks (6/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 768.  Encountered: "1" (49), after : "p" 
+> [1674] A lady is dressed in black and is carrying a white cross (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 276.  Encountered: "1" (49), after : "p" 
+> [1795] Four people are walking along a city sidewalk and the one in the green hat is talking on a cell phone (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 2092.  Encountered: "4" (52), after : "p" 
+> [1796] Four people are walking along a city sidewalk and the one in the green hat is not talking on a cell phone (2/10 readings)
+ Error: A parsing error occurred while reading the input. de.saar.chorus.domgraph.codec.ParserException: de.saar.chorus.domgraph.codec.mrs.TokenMgrError: Lexical error at line 1, column 2170.  Encountered: "5" (53), after : "p" 
+> [1836] A man is wearing a purple shirt and black leather chaps and is posing for the camera (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The dominance children h12 and h18 of the root h14 are not hypernormally connected with each other. 
+> [1844] Two dogs are running and catching a tennis ball (7/10 readings)
+ Error: A semantic error occurred while decoding the graph. The graph is not leaf-labelled. The graph is not hypernormally connected.  
+> Loading sentences-ad
+> Loaded sentences-ad
